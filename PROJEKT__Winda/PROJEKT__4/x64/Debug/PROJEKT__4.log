@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\antek\OneDrive\Pulpit\PROJEKT__4\PROJEKT__4\main.cpp(27,13): warning C4101: 'e': unreferenced local variable
+  simulate.cpp
+C:\Users\antek\OneDrive\Pulpit\PROJEKT__4\PROJEKT__4\simulate.cpp(268,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\antek\OneDrive\Pulpit\PROJEKT__4\PROJEKT__4\simulate.cpp(270,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\antek\OneDrive\Pulpit\PROJEKT__4\PROJEKT__4\simulate.cpp(272,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  PROJEKT__4.vcxproj -> C:\Users\antek\OneDrive\Pulpit\PROJEKT__4\x64\Debug\PROJEKT__4.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
